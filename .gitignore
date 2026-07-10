@@ -46,3 +46,8 @@ app.*.map.json
 
 # Environment variables
 .env
+
+# Node dependencies (do not commit)
+node_modules/
+package-lock.json
+
