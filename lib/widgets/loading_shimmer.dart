@@ -245,10 +245,10 @@ class StatCardShimmer extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Shimmer.fromColors(
-      baseColor: AppColors.shimmerBase,
-      highlightColor: AppColors.shimmerHighlight,
-      child: Expanded(
+    return Expanded(
+      child: Shimmer.fromColors(
+        baseColor: AppColors.shimmerBase,
+        highlightColor: AppColors.shimmerHighlight,
         child: Container(
           padding: const EdgeInsets.all(8),
           margin: const EdgeInsets.symmetric(horizontal: 4),
