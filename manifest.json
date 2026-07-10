@@ -1,11 +1,11 @@
 {
-    "name": "royal_ph7",
-    "short_name": "royal_ph7",
+    "name": "Royal Ph7",
+    "short_name": "Royal Ph7",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#1A56DB",
+    "theme_color": "#1A56DB",
+    "description": "Pure Water, Delivered",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
